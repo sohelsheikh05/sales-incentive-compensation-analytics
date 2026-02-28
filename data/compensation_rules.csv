@@ -1,0 +1,5 @@
+rule_id,min_achievement_percent,max_achievement_percent,commission_rate,bonus_amount
+1,0,70,0.02,0
+2,70,100,0.04,5000
+3,100,120,0.05,10000
+4,120,1000,0.08,20000
