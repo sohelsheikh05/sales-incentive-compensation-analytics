@@ -67,7 +67,7 @@ A final SQL view (`final_compensation_report`) computes:
 
 ### 🔹 1️⃣ Overall Performance Dashboard
 
-![Full Dashboard](screenshots/dashboard_full.png)
+![Full Dashboard](screenshots/image.png)
 
 This dashboard provides:
 
@@ -84,7 +84,7 @@ This dashboard provides:
 
 ### 🔹 2️⃣ Region Filter Applied – North
 
-![North Filter](screenshots/dashboard_filtered_north.png)
+![North Filter](screenshots/image1.png)
 
 When filtering by **North region**, the dashboard dynamically updates:
 
@@ -98,7 +98,7 @@ This demonstrates dynamic filter interaction and business segmentation.
 
 ### 🔹 3️⃣ Region Filter Applied – East
 
-![East Filter](screenshots/dashboard_filtered_east.png)
+![East Filter](screenshots/image2.png)
 
 Filtering by **East region**:
 
